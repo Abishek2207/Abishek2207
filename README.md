@@ -1,116 +1,133 @@
-<h1 align="center">Hey 👋, I'm Abishek R</h1>
-<h3 align="center">AI/ML Engineer • Builder • Hackathon Enthusiast • Future AI Researcher</h3>
+<h1 align="center">Abishek R</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20in%20Progress;Hackathon%20Builder;Machine%20Learning%20Explorer;Future%20Google%20Engineer;Building%20TulasiAI&center=true&width=500&height=45">
+AI/ML Engineer • Founder of TulasiAI • Building Intelligent Career Infrastructure
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-black?style=for-the-badge" />
+
+  <img src="https://img.shields.io/badge/Building-TulasiAI-111111?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🎓 B.Tech Artificial Intelligence & Machine Learning Student
-- 🏫 Studying at Panimalar Engineering College
-- 🤖 Passionate about AI, ML, Deep Learning & Real-World Problem Solving
-- 🛰️ Participated in ISRO Hackathons
-- 🛠️ Building AI Projects & Smart Applications
-- 🚀 Founder & CEO of **TulasiAI**
-- 🎯 Goal: Become an AI Engineer at top product companies
-- 🌱 Currently learning:
-  - Data Structures & Algorithms
-  - Machine Learning
-  - Deep Learning
-  - Full Stack Development
-  - System Design
+I am an Artificial Intelligence & Machine Learning engineering student focused on building scalable AI systems and intelligent developer tools.
+
+Currently building **TulasiAI** — an AI-powered career intelligence platform designed to bridge the gap between academic learning and elite global engineering opportunities.
+
+My primary interests include:
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Career Intelligence Systems
+- AI Infrastructure
+- Developer Platforms
+- High-Performance Product Engineering
 
 ---
 
-## 🧠 Tech Stack
+## TulasiAI
 
-### 💻 Languages
+### Intelligent Career Infrastructure for Engineers
+
+:contentReference[oaicite:0]{index=0}
+
+TulasiAI is a personalized AI-powered career intelligence ecosystem focused on helping engineers transition from learning to high-level professional execution. :contentReference[oaicite:1]{index=1}
+
+Core capabilities include:
+
+- AI-powered personalized roadmaps
+- Intelligent mock interview simulations
+- Skill trajectory analysis
+- PDF intelligence with RAG-based querying
+- Engineering-focused learning systems
+- Career progression architecture
+- Hackathon and project ecosystem integration
+
+---
+
+## Tech Stack
+
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,java" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
 </p>
 
-### ⚡ AI/ML
+### AI / ML
+
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
-### 🌐 Web Development
+### Development
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nextjs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,firebase" />
 </p>
 
-### 🛢️ Database & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
+### Tools
 
-### 🛠️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Current Focus
 
-### 🌿 TulasiAI
-AI-powered intelligent platform focused on innovative automation and smart solutions.
-
-### 🚗 AI-Based Accident Prediction System
-Machine Learning project for predictive accident prevention using AI models.
-
-### 🧵 ThreadLink
-AI-powered handloom ecosystem platform with storytelling, traceability, and marketplace integration.
-
-### 🛰️ ISRO Hackathon Projects
-Worked on satellite image analysis, pollution monitoring, and AI-driven feature detection systems.
+- Building production-grade AI systems
+- Strengthening Data Structures & Algorithms
+- Exploring scalable ML architectures
+- Developing intelligent learning platforms
+- Advancing engineering problem-solving skills
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180em"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<p align="left">
+  <a href="mailto:abishekramamoorthy22@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
   <a href="https://github.com/YOUR_USERNAME">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-
-  <a href="mailto:abishekramamoorthy22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
 
-## ⚡ Fun Fact
-
-```python
-while(True):
-    learn()
-    build()
-    improve()
-    repeat()
+<p align="center">
+Building systems that move engineers from learning to world-class execution.
+</p>
