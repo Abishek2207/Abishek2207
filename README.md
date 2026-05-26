@@ -108,47 +108,63 @@ It focuses on helping learners improve their technical skills, prepare for inter
 
 ## ⚡ AI Engineering Profile
 
-```python
-class AbishekR:
-    def __init__(self):
-        self.name = "Abishek R"
-        self.role = "AI/ML Student | Aspiring AI Engineer"
-        self.college = "Panimalar Engineering College"
-        self.flagship_project = "TulasiAI"
+<div align="center">
 
-        self.core_skills = {
-            "AI/ML": [
-                "Artificial Intelligence",
-                "Machine Learning",
-                "Deep Learning",
-                "Generative AI",
-                "RAG Systems",
-                "AI Agents"
-            ],
-            "Engineering": [
-                "Full Stack Development",
-                "AI Automation",
-                "Data Structures and Algorithms",
-                "Product Engineering"
-            ],
-            "Mindset": [
-                "Build fast",
-                "Learn deeply",
-                "Solve real problems",
-                "Improve consistently"
-            ]
-        }
+<img src="https://img.shields.io/badge/AI%20Engineer-In%20Progress-0F172A?style=for-the-badge&logo=openai&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Building-TulasiAI-111827?style=for-the-badge&logo=googlecloud&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Focus-Generative%20AI-1E293B?style=for-the-badge&logo=tensorflow&logoColor=38BDF8"/>
 
-    def current_mission(self):
-        return (
-            "Building TulasiAI as an intelligent AI platform that helps "
-            "students and engineers learn faster, prepare better, and grow smarter."
-        )
+</div>
 
-    def long_term_goal(self):
-        return "Become a world-class AI Engineer and build impactful AI products."
+<br/>
 
-abishek = AbishekR()
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
-print(abishek.current_mission())
-print(abishek.long_term_goal())
+### 👨‍💻 Identity
+
+- AI/ML Student
+- Aspiring AI Engineer
+- Founder of TulasiAI
+- Builder of intelligent AI systems
+
+### 🧠 Core Domains
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- RAG Systems
+- AI Agents
+- AI Automation
+
+</td>
+
+<td width="50%" align="left">
+
+### ⚙️ Engineering Focus
+
+- Full Stack AI Products
+- Intelligent Learning Systems
+- Career Intelligence Platforms
+- Productivity Automation
+- Scalable AI Workflows
+
+### 🎯 Mission
+
+Building intelligent AI systems that help students and engineers learn faster, prepare smarter, and grow into high-level professionals.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 🚀 Currently Building
+
+# 🌿 TulasiAI
+
+*An AI-powered career intelligence ecosystem for engineers.*
+
+</div>
