@@ -167,13 +167,11 @@ TulasiAI is an intelligent AI platform built to help students improve technical 
 
 ---
 
-# 🦁 Contribution Animation
-
-# 🦁 Contribution Animation
+# 🦁 AI Contribution Animation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abishek2207/Abishek2207/main/assets/lion-contribution.gif" width="900" alt="Lion Contribution Animation"/>
+<img src="https://media.tenor.com/DimzPZMypFcAAAAd/lion-running.gif" width="950"/>
 
 </div>
 
