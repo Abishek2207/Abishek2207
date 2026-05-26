@@ -161,28 +161,61 @@ TulasiAI is an intelligent AI platform built to help students improve technical 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abishek2207/Abishek2207/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+<img src="https://raw.githubusercontent.com/Abishek2207/Abishek2207/main/profile-3d-contrib/profile-night-rainbow.svg" width="950" alt="3D Contribution Graph"/>
 
 </div>
 
 ---
-# 🦁 Contribution Animation
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek2207&bg_color=020617&color=38BDF8&line=22C55E&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Abishek2207/Abishek2207/output/github-contribution-grid-snake-dark.svg" width="950" alt="GitHub Contribution Snake"/>
 
 </div>
+
+---
 
 # 🚀 Current Focus
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=21&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+Engineering;LLM+Applications;RAG+Pipelines;AI+Agents;Scalable+Backend+Systems;DSA+for+Top+Product+Companies" />
+<table>
+<tr>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/RAG%20Pipelines-020617?style=for-the-badge&logo=googledocs&logoColor=22D3EE"/><br/>
+<b>RAG Pipelines</b><br/>
+<sub>Retrieval systems</sub>
+</td>
+
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/AI%20Agents-020617?style=for-the-badge&logo=robotframework&logoColor=38BDF8"/><br/>
+<b>AI Agents</b><br/>
+<sub>Agentic workflows</sub>
+</td>
+
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/LLM%20Engineering-020617?style=for-the-badge&logo=openai&logoColor=22C55E"/><br/>
+<b>LLM Engineering</b><br/>
+<sub>Scalable AI apps</sub>
+</td>
+
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/Vector%20DB-020617?style=for-the-badge&logo=databricks&logoColor=FACC15"/><br/>
+<b>Vector Databases</b><br/>
+<sub>Embeddings search</sub>
+</td>
+
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/AI%20Deployment-020617?style=for-the-badge&logo=docker&logoColor=A855F7"/><br/>
+<b>AI Deployment</b><br/>
+<sub>Deploying at scale</sub>
+</td>
+</tr>
+</table>
 
 </div>
-
----
 
 # 💡 Engineering Vision
 
