@@ -156,27 +156,13 @@ TulasiAI is an intelligent AI platform built to help students improve technical 
 </div>
 
 ---
-
-# 🧬 3D Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Abishek2207/Abishek2207/main/profile-3d-contrib/profile-night-rainbow.svg" width="950" alt="3D Contribution Graph"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
+# 🐍 Contribution Animation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abishek2207/Abishek2207/output/github-contribution-grid-snake-dark.svg" width="950" alt="GitHub Contribution Snake"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek2207&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true"/>
 
 </div>
-
----
-
 # 🚀 Current Focus
 
 <div align="center">
