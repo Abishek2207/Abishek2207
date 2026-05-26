@@ -171,9 +171,9 @@ TulasiAI is an intelligent AI platform built to help students improve technical 
 
 <div align="center">
 
-<img src="https://media.tenor.com/DimzPZMypFcAAAAd/lion-running.gif" width="950"/>
+<img src="https://raw.githubusercontent.com/Abishek2207/Abishek2207/main/assets/lion-contribution.gif" width="900" alt="Small lion running contribution animation"/>
 
-</div>
+</div> 
 
 # 🚀 Current Focus
 
