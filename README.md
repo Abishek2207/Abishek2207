@@ -1,183 +1,162 @@
 <div align="center">
 
-<!-- Professional Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,45:0F172A,100:1E40AF&text=Abishek%20R&fontColor=F8FAFC&fontSize=64&animation=fadeIn&stroke=38BDF8&strokeWidth=1&desc=AI%2FML%20Student%20%7C%20Founder%20of%20TulasiAI%20%7C%20Building%20AI%20Systems&descSize=18&descAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&height=230&color=0:020617,45:0F172A,100:1E3A8A&text=Abishek%20R&fontColor=F8FAFC&fontSize=62&animation=fadeIn&desc=AI%2FML%20Student%20%E2%80%A2%20Aspiring%20AI%20Engineer%20%E2%80%A2%20Founder%20of%20TulasiAI&descSize=18&descAlignY=65"/>
 
-<!-- Minimal Animated Identity -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=AI%2FML+%7C+Generative+AI+%7C+RAG+%7C+AI+Automation;Building+TulasiAI+as+a+career+intelligence+platform;Focused+on+real-world+AI+products+and+engineering+growth" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+TulasiAI;AI%2FML+%7C+Generative+AI+%7C+RAG+%7C+AI+Automation;Focused+on+real-world+AI+products" />
+
+<br/><br/>
+
+<img width="240" src="https://bestanimations.com/media/lions/2001896289lion-animated-gif-11.gif" alt="Lion Animation"/>
 
 <br/><br/>
 
 <a href="https://github.com/Abishek2207">
-  <img src="https://img.shields.io/badge/GitHub-Abishek2207-0F172A?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Abishek2207-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/abishekr22/">
-  <img src="https://img.shields.io/badge/LinkedIn-Abishek%20R-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Abishek%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:abishekramamoorthy22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## About
+## Hi 👋, I'm Abishek R
 
-I am **Abishek R**, a B.Tech Artificial Intelligence and Machine Learning student at **Panimalar Engineering College**.
-
-My work is focused on building practical AI systems that combine machine learning, automation, full-stack development, and intelligent user experiences.
-
-Currently, I am building **TulasiAI** — an AI-powered career intelligence platform designed to help students and engineers learn better, prepare smarter, and grow faster.
+**AI/ML Student • Aspiring AI Engineer • Developer from Panimalar Engineering College**
 
 ---
 
-## TulasiAI
+## 👨‍💻 About Me
+
+- 🎓 B.Tech AIML student at **Panimalar Engineering College**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Generative AI**
+- 🧠 Exploring **LLMs, RAG Systems, AI Agents, AI Automation, and Deep Learning**
+- 💻 Interested in **Full Stack AI Products and intelligent workflows**
+- 🚀 Founder and builder of **TulasiAI**
+- 🎯 Working towards becoming a strong **AI Engineer**
+- ⚡ Building AI systems that solve real-world problems
+
+---
+
+## 🚀 Featured Project
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=TulasiAI;AI-Powered+Career+Intelligence+Platform;Built+for+Students+and+Engineers" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=30&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=800&lines=TulasiAI;AI-Powered+Career+Intelligence+Platform" />
 
 </div>
 
-**TulasiAI** is my flagship project.
+### 🌿 TulasiAI
 
-It is designed as an AI-driven platform for engineering students and early-career developers to improve their learning path, technical preparation, and career direction.
+**TulasiAI** is an AI-powered career intelligence platform for students and engineers.
 
-### What TulasiAI focuses on
+It helps learners improve their technical skills, prepare for interviews, understand their learning path, and grow with AI-powered guidance.
 
-- Personalized AI learning roadmaps
+### Key Areas
+
+- Personalized learning roadmaps
 - Skill gap analysis
 - Interview preparation support
 - PDF intelligence using RAG
-- AI-powered productivity workflows
-- Career guidance for engineering students
-- Project and hackathon preparation support
+- AI automation workflows
+- AI agents for learning and career support
+- Hackathon and project-building support
 
 ---
 
-## Technical Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### AI / ML
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Generative AI
-- RAG Systems
-- AI Agents
-- AI Automation
-
-</td>
-<td width="50%">
-
-### Engineering
-
-- Full Stack Development
-- Python Development
-- API Integration
-- Data Structures and Algorithms
-- Product Engineering
-- Git and GitHub
-- Scalable AI Workflows
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack
+## 🚀 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,supabase,tensorflow,pytorch,opencv,sklearn,git,github,vscode,figma,linux,postman" />
+### Languages  
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript" />
+
+### AI / ML / GenAI  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-020617?style=for-the-badge&logo=python&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-0F172A?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20Systems-1E3A8A?style=for-the-badge&logo=googledocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-312E81?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Automation-0F766E?style=for-the-badge&logo=zapier&logoColor=white"/>
+
+### Web / Backend  
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,mongodb,mysql,firebase,supabase" />
+
+### Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman" />
 
 </div>
 
 ---
 
-## AI Engineering Profile
+## 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Role-AI%2FML%20Student-0F172A?style=for-the-badge"/>
-<br/><br/>
-Focused on learning, building, and applying AI to real-world engineering problems.
-</td>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Abishek2207&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=22D3EE&text_color=E5E7EB"/>
 
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Project-TulasiAI-1E40AF?style=for-the-badge"/>
-<br/><br/>
-Building an AI-powered platform for learning, career preparation, and engineering growth.
-</td>
-
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Goal-AI%20Engineer-0369A1?style=for-the-badge"/>
-<br/><br/>
-Aiming to become a strong AI engineer by building production-level AI products.
-</td>
-</tr>
-</table>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek2207&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E5E7EB"/>
 
 </div>
 
 ---
 
-## GitHub Analytics
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Abishek2207&show_icons=true&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1"/>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abishek2207&layout=compact&theme=github_dark&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek2207&bg_color=020617&color=CBD5E1&line=38BDF8&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## Contribution Activity
+## 🦁 Lion Mode
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek2207&bg_color=020617&color=CBD5E1&line=38BDF8&point=F8FAFC&area=true&hide_border=true"/>
+<img width="300" src="https://bestanimations.com/media/lions/2001896289lion-animated-gif-11.gif" alt="Running Lion Animation"/>
+
+<br/>
+
+**Learning. Building. Improving. Every day.**
 
 </div>
 
 ---
 
-## Contribution Snake
+## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abishek2207/Abishek2207/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+<a href="https://www.linkedin.com/in/abishekr22/">
+  <img src="https://img.shields.io/badge/LinkedIn-Abishek%20R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Abishek2207">
+  <img src="https://img.shields.io/badge/GitHub-Abishek2207-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:abishekramamoorthy22@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-abishekramamoorthy22%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## Current Direction
-
-- Building and improving **TulasiAI**
-- Strengthening AI/ML fundamentals
-- Learning Generative AI, RAG, and AI Agents
-- Practicing Data Structures and Algorithms
-- Building full-stack AI products
-- Preparing for top product-based companies
-
----
-
 <div align="center">
 
-### Building AI systems with clarity, consistency, and real-world purpose.
+### ⭐ Building intelligent AI systems with purpose, consistency, and impact.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:1E40AF,50:0F172A,100:020617&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:1E3A8A,50:0F172A,100:020617&section=footer"/>
 
 </div>
