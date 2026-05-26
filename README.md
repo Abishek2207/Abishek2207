@@ -160,7 +160,9 @@ TulasiAI is an intelligent AI platform built to help students improve technical 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abishek2207&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Abishek2207/Abishek2207/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
 
 </div>
 # 🚀 Current Focus
