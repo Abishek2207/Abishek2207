@@ -2,56 +2,65 @@
 
 # Hi 👋, I'm Abishek R
 
-### AI/ML Student | Aspiring AI Engineer | Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&center=true&vCenter=true&width=750&lines=AI%2FML+Developer;Building+Real+World+AI+Projects;Future+AI+Engineer;Learning+DSA+%2B+Machine+Learning" alt="Typing SVG" />
+### AI/ML Student • Aspiring AI Engineer • Developer from Panimalar Engineering College
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 B.Tech Artificial Intelligence & Machine Learning student  
-- 🤖 Passionate about AI, ML, Deep Learning and Generative AI  
-- 🧠 Learning DSA, Python, ML and AI Agents  
+<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🎓 B.Tech AIML student at Panimalar Engineering College  
+- 🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI  
+- 🧠 Learning DSA, Python, Machine Learning, Deep Learning and AI Agents  
+- 🚀 Founder & CEO of TulasiAI  
 - 🏆 Hackathon enthusiast  
-- 💡 Building real-world AI projects  
+- 💡 Building AI projects that solve real-world problems  
+- 🎯 Goal: Become a high-level AI Engineer  
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,git,github,vscode,mysql" />
 </p>
 
 ---
 
-name: Generate Snake Animation
+## 🌐 Connect With Me
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+<p align="left">
+  <a href="mailto:abishekramamoorthy22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/abishekramamoorthy22">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/abishekramamoorthy22">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/abishekramamoorthy22">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
+---
 
-    steps:
-      - name: Generate snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: abishekramamoorthy22
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+## 🐍 Contribution Snake
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abishekramamoorthy22/abishekramamoorthy22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+<div align="center">
+
+⭐ *“Passionate about building intelligent systems and exploring the future of AI.”*
+
+</div>
