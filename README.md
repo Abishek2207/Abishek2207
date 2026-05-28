@@ -28,44 +28,64 @@
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abishekramamoorthy22&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekramamoorthy22&theme=tokyonight" height="170"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abishekramamoorthy22&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekramamoorthy22&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
 
 ---
 
 ## 🧠 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishekramamoorthy22&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishekramamoorthy22&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 ## 🐍 Contribution Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abishekramamoorthy22/abishekramamoorthy22/output/snake.svg" alt="Snake animation" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abishekramamoorthy22/abishekramamoorthy22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="mailto:abishekramamoorthy22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/abishekramamoorthy22">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abishekramamoorthy22">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="mailto:abishekramamoorthy22@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/abishekramamoorthy22">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/abishekramamoorthy22">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ “Building intelligent systems for the future.”
+
+</div>
 
 ---
 
