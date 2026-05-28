@@ -28,69 +28,30 @@
 
 ---
 
+name: Generate Snake Animation
 
-## 📊 GitHub Stats
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-<div align="center">
+jobs:
+  generate:
+    runs-on: ubuntu-latest
 
-<img src="https://github-readme-stats.vercel.app/api?username=abishekramamoorthy22&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+    steps:
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: abishekramamoorthy22
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekramamoorthy22&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
-
----
-
-## 🧠 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishekramamoorthy22&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abishekramamoorthy22/abishekramamoorthy22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:abishekramamoorthy22@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/abishekramamoorthy22">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/abishekramamoorthy22">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ “Building intelligent systems for the future.”
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ “Building intelligent systems for the future.”
-
-</div>
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
