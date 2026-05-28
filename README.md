@@ -54,12 +54,8 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abishekramamoorthy22/abishekramamoorthy22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/abishekramamoorthy22/abishekramamoorthy22/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
-
-<div align="center">
 
 ⭐ *“Passionate about building intelligent systems and exploring the future of AI.”*
 
