@@ -23,3 +23,36 @@
 <img src="https://img.shields.io/badge/Building-TulasiAI-06B6D4?style=for-the-badge" />
 
 </div>
+<h2 align="center">⚡ AI Engineer in Progress</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+```yaml
+name: Abishek R
+role: Founder @ TulasiAI
+education: B.Tech AIML
+college: Panimalar Engineering College
+location: Chennai, India
+
+current_focus:
+  - AI Agents
+  - Generative AI
+  - LLM Applications
+  - RAG Systems
+  - Automation
+
+mission:
+  Building Intelligent Career Infrastructure
+  for Millions of Engineers
+</td> <td width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=abishekramamoorthy22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" /> </td> </tr> </table> </div>
+<div align="center">
+🚀 My Vision
+
+Building AI products that help students learn faster, build better, and grow their careers through intelligent systems.
+
+</div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=900&lines=Founder+%40+TulasiAI;Building+AI+Agents;Creating+Real-World+AI+Products;Future+AI+Engineer" /> </div> ```
