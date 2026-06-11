@@ -1,62 +1,31 @@
 <div align="center">
 
-# Hi 👋, I'm Abishek R
+# 👋 Hi, I'm Abishek R
 
-### AI/ML Student • Aspiring AI Engineer • Developer from Panimalar Engineering College
+### Founder @ TulasiAI  
+### Building AI Agents, GenAI Products & Intelligent Career Infrastructure
 
-</div>
-
----
-
-## 👨‍💻 About Me
-
-<img align="right" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🎓 B.Tech AIML student at Panimalar Engineering College  
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI  
-- 🧠 Learning DSA, Python, Machine Learning, Deep Learning and AI Agents  
-- 🚀 Founder & CEO of TulasiAI  
-- 🏆 Hackathon enthusiast  
-- 💡 Building AI projects that solve real-world problems  
-- 🎯 Goal: Become a high-level AI Engineer  
-
-<br clear="right"/>
-
----
-
-## 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,react,git,github,vscode,mysql" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:abishekramamoorthy22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/abishekramamoorthy22">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/abishekramamoorthy22">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/abishekramamoorthy22">
-    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abishekramamoorthy22/abishekramamoorthy22/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-⭐ *“Passionate about building intelligent systems and exploring the future of AI.”*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&center=true&vCenter=true&width=900&lines=AI+Engineer+in+Progress;Building+TulasiAI+for+Engineering+Students;AI+Agents+%7C+LLMs+%7C+Automation+%7C+RAG;Turning+Ideas+into+Real+AI+Products" />
 
 </div>
+
+---
+
+## 🚀 About Me
+
+I am **Abishek R**, a B.Tech Artificial Intelligence & Machine Learning student at **Panimalar Engineering College, Chennai**.
+
+I am focused on building **AI agents, GenAI applications, automation workflows, and real-world AI products**.
+
+Currently building **TulasiAI** — an intelligent career infrastructure platform for engineering students.
+
+---
+
+## 🧠 What I Build
+
+```txt
+AI Agents              → Smart task-based autonomous systems
+GenAI Applications     → LLM-powered tools for students and professionals
+RAG Systems            → Knowledge-based intelligent search systems
+Automation Workflows   → AI-powered productivity systems
+Career Tech Products   → Student-focused AI career infrastructure
