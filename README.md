@@ -1,26 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=290&color=0:020617,30:111827,65:7c3aed,100:06b6d4&text=Abishek%20R&fontColor=ffffff&fontSize=68&fontAlignY=36&desc=Founder%20%40%20TulasiAI%20%7C%20AI%20Agent%20Builder%20%7C%20GenAI%20Product%20Developer&descSize=18&descAlignY=57&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563eb,100:7c3aed&height=230&section=header&text=ABISHEK%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20in%20Progress%20%7C%20Founder%20of%20TulasiAI%20%7C%20Career-Tech%20Builder&descSize=18&descAlignY=58"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2200&pause=700&color=06B6D4&center=true&vCenter=true&width=1000&lines=Building+AI+Agents+for+Real-World+Problems;Founder+%40+TulasiAI;GenAI+%7C+LLMs+%7C+RAG+%7C+Automation;Engineering+AI+Products+for+Students+and+Professionals" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&pause=900&center=true&vCenter=true&width=900&lines=Building+TulasiAI+%E2%80%94+Intelligent+Career+Infrastructure;AI+Agents+%7C+RAG+Systems+%7C+Full-Stack+AI+Products;Learning+Deeply.+Building+Publicly.+Shipping+Fast.;Targeting+FAANG%2FMAANG-Level+Engineering+Excellence." />
 
-<br/><br/>
+<br/>
 
-<a href="https://www.tulasiai.in">
-<img src="https://img.shields.io/badge/TulasiAI-Live%20Website-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="https://github.com/abishekramamoorthy22">
-<img src="https://img.shields.io/badge/GitHub-abishekramamoorthy22-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-Abishek%20R-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=abishekramamoorthy22&label=Profile%20Views&color=06b6d4&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-AI%20Agents-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Building-TulasiAI-06B6D4?style=for-the-badge" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-tulasiai.in-111827?style=for-the-badge&logo=vercel)](https://www.tulasiai.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abishek%20R-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-abishekramamoorthy22%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:abishekramamoorthy22@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=blueviolet)](https://github.com/YOUR-GITHUB-USERNAME)
 
 </div>
 
+---
+
+## 👋 About Me
+
+I’m **Abishek R**, a B.Tech **Artificial Intelligence & Machine Learning** student at **Panimalar Engineering College, Chennai**.
+
+I’m the **Founder of TulasiAI**, an intelligent career infrastructure platform for students, freshers, and working professionals.
+
+My focus is to build AI-powered systems that help people learn faster, prepare smarter, reduce career risk, and grow with emerging technologies.
+
+```txt
+AI/ML Engineer in Progress
+Founder of TulasiAI
+Full-Stack AI Product Builder
+Hackathon Builder
+Future AI Engineer
