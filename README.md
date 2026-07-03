@@ -1,31 +1,146 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Abishek R</h1>
+<h3 align="center">AI & Full Stack Developer | B.Tech AIML Student | Hackathon Finalist</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:2563eb,100:7c3aed&height=230&section=header&text=ABISHEK%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20in%20Progress%20%7C%20Founder%20of%20TulasiAI%20%7C%20Career-Tech%20Builder&descSize=18&descAlignY=58"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&pause=900&center=true&vCenter=true&width=900&lines=Building+TulasiAI+%E2%80%94+Intelligent+Career+Infrastructure;AI+Agents+%7C+RAG+Systems+%7C+Full-Stack+AI+Products;Learning+Deeply.+Building+Publicly.+Shipping+Fast.;Targeting+FAANG%2FMAANG-Level+Engineering+Excellence." />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-tulasiai.in-111827?style=for-the-badge&logo=vercel)](https://www.tulasiai.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abishek%20R-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-abishekramamoorthy22%40gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:abishekramamoorthy22@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=for-the-badge&color=blueviolet)](https://github.com/YOUR-GITHUB-USERNAME)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Developer;Full+Stack+Developer;Building+Real+World+Projects;Hackathon+Finalist;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 👋 About Me
+## 🚀 About Me
 
-I’m **Abishek R**, a B.Tech **Artificial Intelligence & Machine Learning** student at **Panimalar Engineering College, Chennai**.
+- 🎓 B.Tech Artificial Intelligence & Machine Learning
+- 💻 Passionate about AI, Web Development & Automation
+- 🧠 Building AI Agents & SaaS Applications
+- 🌱 Currently learning LLMs, FastAPI, React & Cloud
+- 🏆 Forge 2 Hackathon Finalist
+- 🎯 Goal: Build products used by millions
 
-I’m the **Founder of TulasiAI**, an intelligent career infrastructure platform for students, freshers, and working professionals.
+---
 
-My focus is to build AI-powered systems that help people learn faster, prepare smarter, reduce career risk, and grow with emerging technologies.
+## 🛠 Tech Stack
 
-```txt
-AI/ML Engineer in Progress
-Founder of TulasiAI
-Full-Stack AI Product Builder
-Hackathon Builder
-Future AI Engineer
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css"/>
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🩺 Tulasi Health
+AI Powered Digital Healthcare Platform
+
+- AI Chat Assistant
+- Appointment Booking
+- Smart Dashboard
+- Modern UI
+
+---
+
+### 🤖 AI Disease Prediction
+
+- AI Powered Health Assistant
+- Medical Recommendations
+- FastAPI Backend
+- React Frontend
+
+---
+
+### 🧵 WeaveTales AI
+
+AI platform for Handloom Industry
+
+- Story Generation
+- Product Recommendation
+- Digital Marketplace
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://instagram.com/_.abi22._">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
