@@ -1,146 +1,197 @@
-<h1 align="center">Hi 👋, I'm Abishek R</h1>
-<h3 align="center">AI & Full Stack Developer | B.Tech AIML Student | Hackathon Finalist</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Developer;Full+Stack+Developer;Building+Real+World+Projects;Hackathon+Finalist;Always+Learning+New+Things" />
-</p>
+# 👋 Hi, I'm Abishek R
 
----
+### 🚀 AI Engineer | Full Stack Developer | Hackathon Finalist | Building Real-World AI Products
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Developer;Full+Stack+Developer;Building+AI+Products;Hackathon+Finalist;Always+Learning+Something+New"/>
 
-- 🎓 B.Tech Artificial Intelligence & Machine Learning
-- 💻 Passionate about AI, Web Development & Automation
-- 🧠 Building AI Agents & SaaS Applications
-- 🌱 Currently learning LLMs, FastAPI, React & Cloud
-- 🏆 Forge 2 Hackathon Finalist
-- 🎯 Goal: Build products used by millions
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 💫 About Me
+
+🎓 B.Tech Artificial Intelligence & Machine Learning
+
+🏫 Panimalar Engineering College
+
+💻 Passionate about AI, Web Development and Automation
+
+🚀 Building AI products that solve real-world problems
+
+🏆 Hackathon Finalist
+
+🌱 Currently Learning
+
+- Generative AI
+- AI Agents
+- FastAPI
+- Next.js
+- React
+- Flutter
+- Docker
+- Cloud Deployment
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 
-### Frameworks
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind"/>
-</p>
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+
+---
+
+### AI & ML
+
+- OpenAI API
+- Gemini API
+- HuggingFace
+- LangChain
+- AI Agents
+- Computer Vision
+- NLP
+
+---
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
-</p>
+- MongoDB
+- MySQL
+- Firebase
+
+---
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker"/>
-</p>
+Git • Docker • GitHub • VS Code • Postman • Vercel • Netlify
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🩺 Tulasi Health
-AI Powered Digital Healthcare Platform
+## 🌿 Tulasi AI
+
+> AI-powered Healthcare Platform
+
+✨ Features
 
 - AI Chat Assistant
+- Smart Disease Prediction
+- Medical Report Analysis
+- Voice Support
+- Doctor Dashboard
+- Responsive UI
+- Modern Animations
+- Secure Authentication
+
+---
+
+## 🤖 AI Disease Prediction
+
+Predict diseases using symptoms with AI.
+
+- FastAPI
+- AI Models
+- Dashboard
+- Reports
+
+---
+
+## 🏥 Smart Hospital Management
+
+- Patient Dashboard
 - Appointment Booking
-- Smart Dashboard
-- Modern UI
+- Doctor Panel
+- Medical Records
+- Analytics
 
 ---
 
-### 🤖 AI Disease Prediction
+## 🧠 AI Agent Projects
 
-- AI Powered Health Assistant
-- Medical Recommendations
-- FastAPI Backend
-- React Frontend
-
----
-
-### 🧵 WeaveTales AI
-
-AI platform for Handloom Industry
-
-- Story Generation
-- Product Recommendation
-- Digital Marketplace
+- Multi Agent Systems
+- Autonomous Workflows
+- AI Automation
+- API Integrations
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Portfolio Website
 
-<p align="center">
+Modern Animated Portfolio
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+- Dark UI
+- Responsive
+- Smooth Animations
+- Project Showcase
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 Achievements
 
-<p align="center">
+🥇 Forge Hackathon Finalist
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&margin-h=10"/>
+🚀 Built Real-world AI Projects
 
-</p>
+💡 Participated in Multiple Hackathons
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
+🌟 Open Source Contributor
 
 ---
 
-## 🌐 Connect With Me
+# 📊 GitHub Stats
 
-<p align="left">
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://instagram.com/_.abi22._">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-<p align="center">
+# 📈 Contribution Graph
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
 
-</p>
+---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
+# 🌐 Connect with Me
+
+📧 Email: yourmail@gmail.com
+
+💼 LinkedIn
+
+📷 Instagram
+
+🌐 Portfolio
+
+---
+
+<div align="center">
+
+## ⚡ Building AI that creates Real Impact
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+
+⭐ Thanks for visiting my profile!
+
+</div>
